@@ -1,6 +1,6 @@
 {
   "name": "samsflowerwebsite",
-  "version": "0.1.0",
+  "version": "14.2.16",
   "private": true,
   "scripts": {
     "dev": "next dev",
