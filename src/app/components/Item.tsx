@@ -42,12 +42,12 @@ const products = [
 export default function ProductList() {
   return (
     
-    <div className=" bg-pink-300 p-1 flex flex-wrap items-center justify-center mb-6" >
+    <div className=" bg-yellow-50 p-1 flex flex-wrap items-center justify-center mb-6" >
       
       {products.map((product) => (
         <div
           key={product.id}
-          className="max-w-sm bg-white rounded-lg border border-pink-500 shadow-md dark:bg-gray-800 dark:border-gray-400 m-2"
+          className="max-w-sm bg-yellow-50 rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-400 m-2"
         >
           <a href="#">
             <img className="rounded-t-lg w-full h-48 object-cover" src={product.image} alt={product.name} />

@@ -3,9 +3,9 @@ import React from 'react'
 export default function Contactus() {
   return (
     
-      <div className="bg-pink-300 py-12">
+      <div className="bg-yellow-100 py-12">
       <div className="container mx-auto px-4">
-        <h1 className=" bg-gradient-to-b from-pink-200 to-gray-800 text-4xl font-bold text-black text-center mb-8">Get in Touch</h1>
+        <h1 className=" bg-gradient-to-b from-yellow-50 to-gray-800 text-4xl font-bold text-black text-center mb-8">Get in Touch</h1>
         <div className="max-w-2xl mx-auto bg-gray-700 p-8 rounded-lg shadow-lg">
           <form>
             <div className="mb-4">

@@ -5,7 +5,7 @@ import React from 'react';
 
 export default function Navbar() {
   return (
-    <nav className="bg-gradient-to-b from-pink-200 to-gray-900 text-black text-4xl md:text-2xl font-bold mb-4 text-center">
+    <nav className="bg-gradient-to-b from-yellow-100 to-gray-700 text-black text-4xl md:text-2xl font-bold mb-4 text-center">
       <div className="container mx-auto flex justify-between items-center">
         <div className="text-white font-bold text-3xl">
           <Link href="/">Sam's Flower</Link>
